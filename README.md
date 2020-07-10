@@ -13,5 +13,5 @@
 - Always :book: learner.
 - Reach me: 
     - :bird: [Twitter](https://twitter.com/kerbeross)
-    - :blue_book: [LinkedIn](www.linkedin.com/in/jparrill)
+    - :blue_book: [LinkedIn](https://linkedin.com/in/jparrill)
     - :earth_africa: [Utilitips](https://utilitips.kerbeross.dev/Entrypoint/)
