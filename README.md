@@ -7,7 +7,7 @@
 - Main Languages to work with: `Python`, `Golang`, `Rust`, `Bash`, `Ansible` ...
 - :heart_eyes: OpenSource.
 - Desktop: Fedora Based OS, i3-wm, NeoVim, oh-my-zsh.
-- Father of a 🧒 champion, husband of a lovely 👩 wife, looks like another champion is incoming 👶 :D.
+- Father of two 🧒 👶 champions, husband of a lovely 👩 wife.
 - Rogue-Like, RTS, RPG, FPS :video_game: games player.
 - :star: Favorite music: Rap, 16 bits Games Music
 - Always :book: learner.
