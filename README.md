@@ -16,7 +16,12 @@
     - :blue_book: [LinkedIn](https://linkedin.com/in/jparrill)
     - :earth_africa: [Utilitips](https://utilitips.kerbeross.dev/Entrypoint/)
 
-![Jparrill GitHub stats](https://github-readme-stats.vercel.app/api?username=jparrill&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jparrill&show_icons=true&theme=radical)
 
+## 🏆 GitHub Trophies
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=jparrill&theme=radical)
+
+## 🚀 Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jparrill&layout=compact&theme=radical)
 
