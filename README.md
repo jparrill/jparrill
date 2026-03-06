@@ -17,11 +17,5 @@
     - :earth_africa: [Utilitips](https://utilitips.kerbeross.dev/Entrypoint/)
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jparrill&show_icons=true&theme=radical)
-
-## 🏆 GitHub Trophies
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=jparrill&theme=radical)
-
-## 🚀 Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jparrill&layout=compact&theme=radical)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jparrill?cardType=level&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
